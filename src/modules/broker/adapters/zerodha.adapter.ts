@@ -351,4 +351,5 @@ export class ZerodhaAdapter implements IBrokerAdapter {
       raw: h,
     }));
   }
+  
 }
